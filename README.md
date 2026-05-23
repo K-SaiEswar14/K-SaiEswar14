@@ -132,16 +132,37 @@ sai_eswar = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sai-eswar-karanamu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="fill:#0077B5; margin: 8px;" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/K-SaiEswar14"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40" style="margin: 8px;" /></a>
-&nbsp;&nbsp;
-<a href="mailto:karanamusaieswar14@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill:#D14836; margin: 8px;" /></a>
-&nbsp;&nbsp;
-<a href="https://wa.me/917337065581"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="40" height="40" style="fill:#25D366; margin: 8px;" /></a>
+<a href="https://www.linkedin.com/in/sai-eswar-karanamu">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40"/>
+  &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/Sai_Eswar_Karanamu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-eswar-karanamu)
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/K-SaiEswar14">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40"/>
+  &nbsp;
+  [![GitHub](https://img.shields.io/badge/K--SaiEswar14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K-SaiEswar14)
+</a>
+
+<br/><br/>
+
+<a href="mailto:karanamusaieswar14@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
+  &nbsp;
+  [![Gmail](https://img.shields.io/badge/karanamusaieswar14-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanamusaieswar14@gmail.com)
+</a>
+
+<br/><br/>
+
+<a href="https://wa.me/917337065581">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" height="40"/>
+  &nbsp;
+  [![WhatsApp](https://img.shields.io/badge/%2B91_7337065581-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917337065581)
+</a>
 
 </div>
-
 ---
 
 <div align="center">
