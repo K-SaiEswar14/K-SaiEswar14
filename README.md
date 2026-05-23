@@ -2,8 +2,8 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║   K A R A N A M U   S A I   E S W A R                        ║
-║   AI/ML Engineer  ·  Data Analyst  ·  Software Developer     ║
+║   K A R A N A M U   S A I   E S W A R                         ║
+║   AI/ML Engineer  ·  Data Analyst  ·  Software Developer      ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
