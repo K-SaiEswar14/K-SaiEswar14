@@ -31,7 +31,7 @@ sai_eswar = {
     "🎓 Education":   "B.Tech CSE (AI) — CGPA: 8.93",
     "📍 Location":    "Andhra Pradesh, India",
     "💡 Interests":   ["AI/ML", "Data Analytics", "Full Stack Dev"],
-    "🔭 Currently":   "Data Analyst Intern @ Digital Edify, Hyderabad",
+    "🔭 Currently":   "Data Analyst Trainee @ TAO Digital India Pvt Ltd, Hyderabad",
     "🌱 Learning":    "Advanced ML · Power BI · Real-time AI Systems",
     "🤝 Open to":     "Entry-level roles in AI/ML, Data, Software Dev",
     "⚡ Fun fact":    "I draw, write, and craft — creativity is my superpower!"
