@@ -72,7 +72,7 @@ sai_eswar = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=K-SaiEswar14&theme=tokyonight&hide_border=true)](https://github.com/K-SaiEswar14?tab=overview)
+[![GitHub Streak](https://streak-stats.demolab.com?user=K-SaiEswar14&theme=tokyonight&hide_border=true&cachebuster=1)](https://github.com/K-SaiEswar14?tab=overview)
 
 </div>
 
