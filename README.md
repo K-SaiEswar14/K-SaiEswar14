@@ -68,11 +68,11 @@ sai_eswar = {
 ---
 
 ## 📈 GitHub Metrics
+## 🔥 My Contribution Streak
 
-🔥 My Contribution Streak:
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=K-SaiEswar14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=K-SaiEswar14&theme=tokyonight&hide_border=true)](https://github.com/K-SaiEswar14?tab=overview)
 
 </div>
 
