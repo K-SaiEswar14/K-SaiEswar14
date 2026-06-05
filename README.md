@@ -66,16 +66,13 @@ sai_eswar = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## 📈 GitHub Metrics
-## 🔥 My Contribution Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=K-SaiEswar14&theme=tokyonight&hide_border=true&cachebuster=1)](https://github.com/K-SaiEswar14?tab=overview)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=K-SaiEswar14&theme=tokyo-night&hide_border=true)
 
 </div>
-
 ---
 
 ## 💼 Experience Timeline
