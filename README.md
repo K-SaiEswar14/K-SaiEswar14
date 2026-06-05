@@ -67,11 +67,9 @@ sai_eswar = {
 
 ---
 ## 📈 GitHub Metrics
-
+## 🔥 My Contribution Streak
 <div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=K-SaiEswar14&theme=tokyo-night&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=K-SaiEswar14&theme=tokyonight&hide_border=true&cachebuster=1)](https://github.com/K-SaiEswar14?tab=overview)
 </div>
 ---
 
