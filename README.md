@@ -133,24 +133,24 @@ sai_eswar = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sai-eswar-karanamu">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45"/>
+<a href="https://www.linkedin.com/in/sai-eswar-karanamu-45751b260/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/K-SaiEswar14">
-  <img src="https://img.icons8.com/ios-filled/50/github.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:karanamusaieswar14@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/917337065581">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="45" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/__smile_._sai_._1404__/">
-  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="45" height="45"/>
+<a href="https://www.instagram.com/_smile_s.a.i._1404_.k/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"/>
 </a>
 
 </div>
