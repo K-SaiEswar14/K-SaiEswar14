@@ -83,7 +83,7 @@ sai_eswar = {
 
 ```
 2025–2026 ──────────────────────────────────────────────────────────
- 📊  Data Analyst Trainee @ TAO Digital India Pvt Ltd, Hyderabad (Aug 2025–Mar 2026)
+ 📊  Data Analyst Trainee @ TAO Digital India Pvt Ltd, Hyderabad (Aug 2025–May 2026)
      SQL · Power BI · Data Visualization · Data Handling · Dashboard Creating · Cleaning · Labeling · Annotation
 
 2025 ───────────────────────────────────────────────────────────────
