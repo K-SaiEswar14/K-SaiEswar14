@@ -160,7 +160,7 @@ sai_eswar = {
 <div align="center">
 
 ### 📄 Resume
-> 📎 **[Download My Resume](./Sai_Eswar_K-Ol.pdf)** — AI/ML Engineer · Data Analyst · Software Developer
+> 📎 **[Download My Resume](./K_Sai_Eswar_Res_91)** — AI/ML Engineer · Data Analyst · Software Developer
 
 </div>
 
